@@ -43,4 +43,19 @@ Peenjelasan:
 public Boolean isEqual(Object a, Object b); pada class reletion.java , dan
 System.out.println("Apakah Garis B == Garis A  "+b.isEqual(a, b));
 
+#LATIHAN 3
 
+<img width="281" alt="Latihan 3" src="https://user-images.githubusercontent.com/68811466/116041689-b1e85d00-a697-11eb-9fee-3c4824ab6197.PNG">
+
+#LATIHAN 4
+
+<img width="291" alt="Latihan 4" src="https://user-images.githubusercontent.com/68811466/116041706-b7de3e00-a697-11eb-98f1-fc4b94c7f70c.PNG">
+
+#TUGAS PRAKTIKUM
+
+<img width="561" alt="Praktikum Test Rect" src="https://user-images.githubusercontent.com/68811466/116041785-d6dcd000-a697-11eb-90a9-30998009631f.PNG">
+<img width="346" alt="Output Test Rect" src="https://user-images.githubusercontent.com/68811466/116041799-dcd2b100-a697-11eb-8e58-72ae948102e1.PNG">
+
+#TUGAS 1
+
+<img width="167" alt="output tugas1" src="https://user-images.githubusercontent.com/68811466/116041808-e0663800-a697-11eb-960f-65e7e956ce85.PNG">
