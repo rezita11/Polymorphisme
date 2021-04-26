@@ -35,6 +35,8 @@ Penjelasan : Terdapat 1 error karena method tersebut memerlukan nilai return
 d)
 
 <img width="469" alt="Latihan 2 (d)" src="https://user-images.githubusercontent.com/68811466/116038262-692ea500-a693-11eb-8c94-7b61ebfaa459.PNG">
-Peenjelasan: 
+Peenjelasan:
+
 -Class Line bukan kelas abstract dan tidak mengoverride abstract method isEqual();
+
 -Ketika eksekusi di main, tidak menemukan adanya method isEqual();
