@@ -38,5 +38,9 @@ d)
 Peenjelasan:
 
 -Class Line bukan kelas abstract dan tidak mengoverride abstract method isEqual();
-
 -Ketika eksekusi di main, tidak menemukan adanya method isEqual();
+-Untuk mengatasi eror dapat dilakukan dengan menghapus 
+public Boolean isEqual(Object a, Object b); pada class reletion.java , dan
+System.out.println("Apakah Garis B == Garis A  "+b.isEqual(a, b));
+
+
